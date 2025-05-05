@@ -20,7 +20,8 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-auto-rows: auto;
     grid-gap:0.5rem;
-    width: 992px;
+    width: 70svw;
+    max-width:992px;
     min-height: 500px;
 }
 
